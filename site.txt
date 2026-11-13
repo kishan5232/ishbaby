@@ -1,2 +1,1 @@
-line1: welcome to our site
-line2:added login and logout page
+line 1:welcome to our site
